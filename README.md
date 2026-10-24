@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <!--
 **gabrielfanti2712-code/gabrielfanti2712-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
